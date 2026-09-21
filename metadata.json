@@ -1,0 +1,10 @@
+{
+  "name": "Remix: TravelWithMe AI",
+  "description": "An AI-powered travel companion guiding your journey with customized itineraries, packing checklists, emergency contacts, local dining, budgeting, and interactive chat.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
